@@ -12,8 +12,7 @@ public class Solution {
         public static void main(String[] args) {
             System.out.println("Enter a number:");
             int N = scanner.nextInt();
-            // if (n == 3)
-            //    System.out.println("Weird");
+
             String ans = " ";
             if( N >=1 && N<=100){
                 if (N%2 == 1){
